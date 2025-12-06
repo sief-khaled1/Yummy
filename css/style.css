@@ -190,6 +190,7 @@ nav {
 #categoriesPage,
 #areaPage,
 #ingredientsPage,
-#contactPage {
+#contactPage,
+.load-spin {
     margin-left: 4rem;
 }
